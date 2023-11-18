@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#" target="_blank">
-    <img src="./jincol.gif"/>
+    <img src="./img/jincol.gif"/>
  </a>
 
 ### Hi there 👋
