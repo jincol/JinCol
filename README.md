@@ -1,9 +1,10 @@
+### 👨‍💻 Hi there, soy JinCol... 👋
 <p align="center">
   <a href="#" target="_blank">
     <img src="./img/jincol.gif"/>
  </a>
 
-### Hi there 👋
+
 
 <!--
 **jincol/jincol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
