@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#" target="_blank">
-    <img src="./img/Black Blue White Modern Software Engineer Linkedin Banner.png"/>
+    <img src="./jincol.gif"/>
  </a>
 
 ### Hi there 👋
