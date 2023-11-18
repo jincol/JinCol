@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://www.canva.com/design/DAF0i1b6Cp8/eKiBU_ihsInKsG5Urvrdpw/view?utm_content=DAF0i1b6Cp8&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+    <img src="./imagen/Black Blue White Modern Software Engineer Linkedin Banner.png"/>
  </a>
 
 ### Hi there 👋
