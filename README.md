@@ -1,4 +1,4 @@
-<h3 align="center" bg-color="#00ADEF">👨‍💻 Hi there, soy JinCol... 👋</h3> 
+<h1 align="center" style="color:#00ADEF;">👨‍💻 Hi there, soy JinCol... 👋</13> 
 <p align="center">
   <a href="#" target="_blank">
     <img src="./img/jincol.gif"/>
